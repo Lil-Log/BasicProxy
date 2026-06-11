@@ -1,119 +1,119 @@
 
 {
-  "level": "info",
-  "message": "GET https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info",
-  "$workers": {
-    "event": {
-      "request": {
-        "cf": {
-          "isEUCountry": false,
-          "tlsClientAuth": {
-            "certRFC9440TooLarge": false,
-            "certChainRFC9440TooLarge": false,
-            "certPresented": "0",
-            "certVerified": "NONE",
-            "certRevoked": "0",
-            "certIssuerDN": "",
-            "certSubjectDN": "",
-            "certIssuerDNRFC2253": "",
-            "certSubjectDNRFC2253": "",
-            "certIssuerDNLegacy": "",
-            "certSubjectDNLegacy": "",
-            "certSerial": "",
-            "certIssuerSerial": "",
-            "certSKI": "",
-            "certIssuerSKI": "",
-            "certFingerprintSHA1": "",
-            "certFingerprintSHA256": "",
-            "certNotBefore": "",
-            "certNotAfter": "",
-            "certRFC9440": "",
-            "certChainRFC9440": ""
-          },
-          "httpProtocol": "HTTP/2",
-          "clientAcceptEncoding": "gzip, deflate",
-          "requestPriority": "weight=16;exclusive=0;group=0;group-weight=0",
-          "colo": "LAX",
-          "asOrganization": "Korea Telecom",
-          "country": "KR",
-          "city": "Busan",
-          "continent": "AS",
-          "region": "Busan",
-          "regionCode": "26",
-          "timezone": "Asia/Seoul",
-          "longitude": "129.03004",
-          "latitude": "35.10168",
-          "postalCode": "48902",
-          "tlsVersion": "TLSv1.3",
-          "tlsCipher": "AEAD-AES256-GCM-SHA384",
-          "tlsClientRandom": "lFvEZKgLsb8UbrgnQty+U1Zh9+DAMJGrNZR8xqxxVx0=",
-          "tlsClientCiphersSha1": "hCCNuWP9ky6AR69i97wdKYbhFQo=",
-          "tlsClientExtensionsSha1": "zjCjcWViVMgFV2C9sA+kSgqih5k=",
-          "tlsClientExtensionsSha1Le": "TKFYeb6G1N4P6qbfHY2M7/rxP1Y=",
-          "tlsExportedAuthenticator": {
-            "clientHandshake": "0ae1d86a588c9a39fbaede6dc4625e8d6232d84b6b0ba3aaa28bf70b6874184b9b45a4961f9c6c9e0f46ae5605c705bd",
-            "serverHandshake": "d42c02af6dc0450b138ef316000c9370121f1605c5b4cfb3fe6a2fd82242d55224d19be494d952d182bbb2e7aa35d2d5",
-            "clientFinished": "d4ae0fbbf0b93d1817d5ea7331fe8791cabf667a394d13a7b4b768734ba3820dc966c3487da645ba6443208f076d200d",
-            "serverFinished": "024faadfb9152b84b499614c36378baf57cd58546c3a1c62ca2ee955c14c9773d8cb282e472bbddda6a88d5ebcb4316e"
-          },
-          "tlsClientHelloLength": "1846",
-          "verifiedBotCategory": "",
-          "edgeRequestKeepAliveStatus": 1,
-          "clientTcpRtt": 129,
-          "clientQuicRtt": 0,
-          "asn": 4766,
-          "edgeL4": {
-            "deliveryRate": 52192
-          }
-        },
-        "url": "https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info",
-        "method": "GET",
-        "headers": {
-          "accept": "*/*",
-          "accept-encoding": "gzip, br",
-          "cache-control": "no-cache",
-          "cf-connecting-ip": "211.221.40.164",
-          "cf-ipcountry": "KR",
-          "cf-ray": "a09864b15f524bb4",
-          "cf-visitor": "{\"scheme\":\"https\"}",
-          "connection": "Keep-Alive",
-          "host": "basicproxy.sensles355.workers.dev",
-          "roblox-id": "129765640264120",
-          "traceparent": "00-4650e0ed8d8b5d6209af8dedcefd14d5-fa5e7453d8aadfe9-00",
-          "user-agent": "RobloxStudio/WinInet RobloxApp/0.725.0.7251140 (GlobalDist; RobloxDirectDownload)",
-          "x-forwarded-proto": "https",
-          "x-real-ip": "211.221.40.164"
-        },
-        "path": "/game-passes/v1/game-passes/1635672655/product-info"
-      },
-      "rayId": "a09864b15f524bb4",
-      "response": {
-        "status": 401
-      }
-    },
-    "truncated": false,
-    "scriptName": "basicproxy",
-    "outcome": "ok",
-    "eventType": "fetch",
-    "executionModel": "stateless",
-    "scriptVersion": {
-      "id": "ff43bf32-91a4-4e6c-bbac-4a1ab1443bfb"
-    },
-    "requestId": "a09864b15f524bb4",
-    "cpuTimeMs": 0,
-    "wallTimeMs": 0
-  },
-  "$metadata": {
-    "id": "01KTRR8AQ103YXMG5T7V826BV3",
-    "requestId": "a09864b15f524bb4",
-    "trigger": "GET /game-passes/v1/game-passes/1635672655/product-info",
-    "service": "basicproxy",
-    "level": "info",
-    "message": "GET https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info",
-    "account": "5af76447e3fac932840c050852764fbc",
-    "type": "cf-worker-event",
-    "fingerprint": "de03d6e89f8546503ceecb370aecb1a8",
-    "origin": "fetch",
-    "messageTemplate": "GET https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info"
-  }
+  "level": "info",
+  "message": "GET https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info",
+  "$workers": {
+    "event": {
+      "request": {
+        "cf": {
+          "isEUCountry": false,
+          "tlsClientAuth": {
+            "certRFC9440TooLarge": false,
+            "certChainRFC9440TooLarge": false,
+            "certPresented": "0",
+            "certVerified": "NONE",
+            "certRevoked": "0",
+            "certIssuerDN": "",
+            "certSubjectDN": "",
+            "certIssuerDNRFC2253": "",
+            "certSubjectDNRFC2253": "",
+            "certIssuerDNLegacy": "",
+            "certSubjectDNLegacy": "",
+            "certSerial": "",
+            "certIssuerSerial": "",
+            "certSKI": "",
+            "certIssuerSKI": "",
+            "certFingerprintSHA1": "",
+            "certFingerprintSHA256": "",
+            "certNotBefore": "",
+            "certNotAfter": "",
+            "certRFC9440": "",
+            "certChainRFC9440": ""
+          },
+          "httpProtocol": "HTTP/2",
+          "clientAcceptEncoding": "gzip, deflate",
+          "requestPriority": "weight=16;exclusive=0;group=0;group-weight=0",
+          "colo": "LAX",
+          "asOrganization": "Korea Telecom",
+          "country": "KR",
+          "city": "Busan",
+          "continent": "AS",
+          "region": "Busan",
+          "regionCode": "26",
+          "timezone": "Asia/Seoul",
+          "longitude": "129.03004",
+          "latitude": "35.10168",
+          "postalCode": "48902",
+          "tlsVersion": "TLSv1.3",
+          "tlsCipher": "AEAD-AES256-GCM-SHA384",
+          "tlsClientRandom": "lFvEZKgLsb8UbrgnQty+U1Zh9+DAMJGrNZR8xqxxVx0=",
+          "tlsClientCiphersSha1": "hCCNuWP9ky6AR69i97wdKYbhFQo=",
+          "tlsClientExtensionsSha1": "zjCjcWViVMgFV2C9sA+kSgqih5k=",
+          "tlsClientExtensionsSha1Le": "TKFYeb6G1N4P6qbfHY2M7/rxP1Y=",
+          "tlsExportedAuthenticator": {
+            "clientHandshake": "0ae1d86a588c9a39fbaede6dc4625e8d6232d84b6b0ba3aaa28bf70b6874184b9b45a4961f9c6c9e0f46ae5605c705bd",
+            "serverHandshake": "d42c02af6dc0450b138ef316000c9370121f1605c5b4cfb3fe6a2fd82242d55224d19be494d952d182bbb2e7aa35d2d5",
+            "clientFinished": "d4ae0fbbf0b93d1817d5ea7331fe8791cabf667a394d13a7b4b768734ba3820dc966c3487da645ba6443208f076d200d",
+            "serverFinished": "024faadfb9152b84b499614c36378baf57cd58546c3a1c62ca2ee955c14c9773d8cb282e472bbddda6a88d5ebcb4316e"
+          },
+          "tlsClientHelloLength": "1846",
+          "verifiedBotCategory": "",
+          "edgeRequestKeepAliveStatus": 1,
+          "clientTcpRtt": 129,
+          "clientQuicRtt": 0,
+          "asn": 4766,
+          "edgeL4": {
+            "deliveryRate": 52192
+          }
+        },
+        "url": "https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info",
+        "method": "GET",
+        "headers": {
+          "accept": "*/*",
+          "accept-encoding": "gzip, br",
+          "cache-control": "no-cache",
+          "cf-connecting-ip": "211.221.40.164",
+          "cf-ipcountry": "KR",
+          "cf-ray": "a09864b15f524bb4",
+          "cf-visitor": "{\"scheme\":\"https\"}",
+          "connection": "Keep-Alive",
+          "host": "basicproxy.sensles355.workers.dev",
+          "roblox-id": "129765640264120",
+          "traceparent": "00-4650e0ed8d8b5d6209af8dedcefd14d5-fa5e7453d8aadfe9-00",
+          "user-agent": "RobloxStudio/WinInet RobloxApp/0.725.0.7251140 (GlobalDist; RobloxDirectDownload)",
+          "x-forwarded-proto": "https",
+          "x-real-ip": "211.221.40.164"
+        },
+        "path": "/game-passes/v1/game-passes/1635672655/product-info"
+      },
+      "rayId": "a09864b15f524bb4",
+      "response": {
+        "status": 401
+      }
+    },
+    "truncated": false,
+    "scriptName": "basicproxy",
+    "outcome": "ok",
+    "eventType": "fetch",
+    "executionModel": "stateless",
+    "scriptVersion": {
+      "id": "ff43bf32-91a4-4e6c-bbac-4a1ab1443bfb"
+    },
+    "requestId": "a09864b15f524bb4",
+    "cpuTimeMs": 0,
+    "wallTimeMs": 0
+  },
+  "$metadata": {
+    "id": "01KTRR8AQ103YXMG5T7V826BV3",
+    "requestId": "a09864b15f524bb4",
+    "trigger": "GET /game-passes/v1/game-passes/1635672655/product-info",
+    "service": "basicproxy",
+    "level": "info",
+    "message": "GET https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info",
+    "account": "5af76447e3fac932840c050852764fbc",
+    "type": "cf-worker-event",
+    "fingerprint": "de03d6e89f8546503ceecb370aecb1a8",
+    "origin": "fetch",
+    "messageTemplate": "GET https://basicproxy.sensles355.workers.dev/game-passes/v1/game-passes/1635672655/product-info"
+  }
 }
